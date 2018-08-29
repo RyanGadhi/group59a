@@ -1,2 +1,2 @@
 # group59a
-Objects and Design 
+Objects and Design Course
